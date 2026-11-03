@@ -18,7 +18,7 @@ I design **production-oriented AI solutions** with a focus on LLM orchestration,
 
 ## Featured projects
 
-### 🧠 Open-Source LLMs & Sovereign AI — Local Inference Infrastructure
+### Open-Source LLMs & Sovereign AI — Local Inference Infrastructure
 
 Designed and deployed a **local LLM inference infrastructure** with Ollama and FastAPI, focusing on data governance, confidentiality, and efficient access to open-source language models.
 
@@ -43,7 +43,7 @@ Researched **automatic speech emotion recognition** for Moroccan Darija, compari
 
 **Technologies:** Python · Speech Processing · Deep Learning · TRILL · scikit-learn · SVM
 
-### 🤖 PAM AI — Multi-Agent SaaS Assistant & Domain-Specific RAG
+### PAM AI — Multi-Agent SaaS Assistant & Domain-Specific RAG
 
 Designed and orchestrated a **multi-agent AI assistant** for a property management SaaS platform.
 
